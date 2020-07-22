@@ -3,15 +3,15 @@
 ### Hi there 👋
 
 
-<p align="center"><b>**I believe the ✨Expert in anything was once a beginner✨ So it's not too late just start from now and you'll see the result.</b</p>
+<p align="center"><b>**I believe the ✨Expert in anything was once a beginner✨ So it's not too late just start from now and one day you'll be an Expert.</b</p>
 
 
 <p align="center">
   <a href="https://github.com/Akki-Developer">
-    <img src="https://img.shields.io/github/followers/Akki-Developer?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/Akki-Developer?logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/Akanksh61006100">
-    <img src="https://img.shields.io/twitter/follow/Akanksh61006100?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/Akanksh61006100?logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
