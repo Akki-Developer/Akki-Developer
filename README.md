@@ -8,10 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/Akki-Developer">
-    <img src="https://img.shields.io/github/Akki-Developer?logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/Akki-Developer?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/Akanksh61006100">
-    <img src="https://img.shields.io/twitter/Akanksh61006100?logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/Akanksh61006100?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>  
+  <a href="https://www.facebook.com/akankaha.gupta/">
+    <img src="https://img.shields.io/twitter/follow/akankaha.gupta?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
