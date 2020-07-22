@@ -13,9 +13,6 @@
   <a href="https://twitter.com/Akanksh61006100">
     <img src="https://img.shields.io/twitter/follow/Akanksh61006100?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>  
-  <a href="https://www.facebook.com/akankaha.gupta/">
-    <img src="https://img.shields.io/facebook/follow/akankaha.gupta?label=Facebook&logo=facebook&style=for-the-badge" />
-  </a>
 </p>
 
 <table width="100%"> 
